@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "telegram": {
+            "token": "1250928951:AAFjl9ECrE2EQq1YbnOwcFbxOd9VSXHStJI",
+            "chatId": "1102575421"
+        }
+    },
+    "db": {
+        "table": {
+            "notification": "tbl_notification_prod"
+        }
+    }
+}
